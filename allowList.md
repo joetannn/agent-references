@@ -1,4 +1,4 @@
 ﻿# Allow List
 
 - `gh *`
-- `gh api *`
+- `git *`
